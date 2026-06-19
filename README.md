@@ -2,6 +2,7 @@
 
 ## Regalos de fin de Módulo
 
+- [Ejercicios Tipo](./readmes/Regalos/EjerciciosTipo.md)
 - [Simulacro de Checkpoint](./readmes/Regalos/SimulacroChoice.md)
 - [Datos curiosos sobre programación](./readmes/Regalos/DatosCuriosos.md)
 - [Material Extra](./readmes/Regalos/Regalos.md)
